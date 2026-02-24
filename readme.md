@@ -10,4 +10,4 @@ Most of my recent work has been in private repositories(Bitbucket) building high
 
 ---
 
-💻 [airtonponce.com](https://airtonponce.com) | 📧 ponceairton@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/airtonponce) | 📍 Rome, Italy
+💻 [airtonponce.com](https://airtonponce.com) |💬 [Discord](https://discord.com/users/432913862421905419) |📧 ponceairton@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/airtonponce) | 📍 Rome, Italy | From 🇧🇷
