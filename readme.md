@@ -19,4 +19,4 @@ Most of my recent work has been in private repositories (Bitbucket) building hig
 
 ---
 
-💻 [tonanywhere.com](https://tonanywhere.com)	|	💬 [Discord](https://discord.com/users/432913862421905419)	|	📧 ponceairton@gmail.com	|	🔗 [LinkedIn](https://linkedin.com/in/airtonponce)	|	📍 Rome, Italy	|	From 🇧🇷
+📧 ponceairton@gmail.com	|	💬 [Discord](https://discord.com/users/432913862421905419)	|	🔗 [LinkedIn](https://linkedin.com/in/airtonponce) | 💻 [tonanywhere.com](https://tonanywhere.com)	|	📍 Rome, Italy	|	From 🇧🇷
