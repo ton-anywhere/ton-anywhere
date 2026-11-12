@@ -5,7 +5,7 @@ I'm a software engineer (7+ years of experience) and former portfolio manager (F
 Open to remote opportunities.
 
 ### Open Source
-- **[omp-handoff-switch](https://github.com/ton-anywhere/omp-handoff-switch)**: OMP extension to configure which model role will process handoff compactions.
+- **[omp-handoff-switch](https://github.com/ton-anywhere/omp-handoff-switch)**: OMP plugin to configure which model role will process handoff compactions.
 - **[my-favorite-prompts](https://github.com/ton-anywhere/my-favorite-prompts)**: Personal AI workspace for prompts, agents, skills, etc.
 - **[ig-persona](https://github.com/ton-anywhere/ig-persona)**: human + LLM collaboration template for Instagram content creation using AI agents.
 
